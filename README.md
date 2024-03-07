@@ -7,11 +7,13 @@ Fitness Club Management System is a C++ project that provides a simple solution 
 **Features**
 
 User Mode:
+
   Join Fitness Club
   Quit Fitness Club
   Edit Profile
 
 Admin Mode:
+
   Authentication for Admin
   Create Member
   Display All Records
@@ -20,6 +22,7 @@ Admin Mode:
   Delete Member
   
 Other Functionality:
+
   Trainer Allotment for Gold and Silver Classes
   Time Slot Selection for Members
   Membership Fee Calculation
