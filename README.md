@@ -8,27 +8,27 @@ Fitness Club Management System is a C++ project that provides a simple solution 
 
 User Mode:
 
-  Join Fitness Club
-  Quit Fitness Club
-  Edit Profile
+  Join Fitness Club,
+  Quit Fitness Club,
+  Edit Profile.
 
 Admin Mode:
 
-  Authentication for Admin
-  Create Member
-  Display All Records
-  Search for a Particular Record
-  Edit Member Details
-  Delete Member
+  Authentication for Admin,
+  Create Member,
+  Display All Records,
+  Search for a Particular Record,
+  Edit Member Details,
+  Delete Member.
   
 Other Functionality:
 
-  Trainer Allotment for Gold and Silver Classes
-  Time Slot Selection for Members
-  Membership Fee Calculation
+  Trainer Allotment for Gold and Silver Classes,
+  Time Slot Selection for Members,
+  Membership Fee Calculation.
 
 **Usage**
 
 Upon running the program, choose between User and Admin modes.
-For Admin mode, use the default admin code: admin123 and password: fitClubAdmin.
+For Admin mode, use the default admin code: **admin123** and password: **fitClubAdmin**.
 Follow on-screen prompts to perform various actions.
